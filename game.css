@@ -1,0 +1,265 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Poppins;
+}
+.icons ul{
+    list-style-type: none;
+    display: flex;
+    gap: 69.6px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.icons {
+    
+    display: flex;
+    align-items: center;
+    gap: 64px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: lighter;
+    line-height: normal;
+    
+}
+.button{
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+    background: #FA9021;
+    width: 131.771px;
+    height: 41.343px;
+    flex-shrink: 0;
+    justify-content: center;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 566px;
+}
+.logo h1{
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 153.5%;
+    padding-left: 55px;
+}
+.image{
+    width: 806px;
+    height: 761px;
+    padding-left: 720px;
+    margin-top: -150px;
+   
+}
+.game h2{
+    margin-top: -500px;
+    padding-left: 147px;
+    color: #E87D0E;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 155.2%; 
+
+}
+.game h1{
+    padding-left: 147px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 155.2%;
+    width: 400px;
+    margin-top: -10px;
+}
+.game p{
+    padding-left: 147px;
+    width: 400px;
+    height: 101px;
+    margin-top: -20px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+   line-height: 200%; 
+}
+.game b{
+    font-family: Poppins;
+font-size: 13px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+border-radius: 40px;
+background: linear-gradient(92deg, #FA8305 2.08%, #FB9E3C 117.25%);
+width: 150px;
+height: 50px;
+flex-shrink: 0;
+margin-left: 147px;
+margin-top: 40px;
+}
+.eye{
+    display: flex;
+    margin-left: 840px;
+    margin-top: -500px;
+    width: 101px;
+height: 99px;
+flex-shrink: 0;
+}
+.unreal{
+    width: 59px;
+height: 60px;
+flex-shrink: 0;
+margin-left: 160px;
+margin-top: 15px;
+}
+.unity{
+    width: 96px;
+height: 30px;
+flex-shrink: 0;
+margin-left: 600px ;
+margin-top: 150px;
+}
+.sen{
+    font-family: Rubik;
+font-size: 31px;
+font-style: normal;
+font-weight: 700;
+line-height: 187.5%; 
+margin-top: 400px;
+width: 600px;
+margin-left: 147px;
+}
+.container{
+    display: flex;
+    gap: 600px;
+}
+.click b{
+    margin-top: 450px;
+    border-radius: 10px;
+background: rgba(255, 255, 255, 0.11);
+    
+}
+.Rectangle{
+    display: flex;
+    margin-left: 147px;
+    gap: 47px;
+    border-radius: 20px;
+    width: 252px;
+height: 277px;
+margin-top: 30px;
+}
+.connect{
+    list-style-type: none;
+    display: flex;
+    margin-left: 147px;
+    gap: 163px;
+    font-family: Rubik;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 187.5%;
+}
+ul.connect li:first-child{
+   margin-left: 30px;
+}
+ul.connect li:nth-child(2){
+    margin-left: 30px;
+}
+ul.connect li:nth-child(3){
+    margin-left: 30px;
+}
+ul.connect li:last-child{
+    margin-left: 20px;
+}
+.follow{
+    display: flex;
+}
+.pic{
+    display: flex;
+    width: 25px;
+    height: 25px;
+    margin-left: -1060px;
+    margin-top: 27px;
+    
+}
+.one{
+    margin-left: 282px;
+}
+.two{
+    margin-left: 285px;
+}
+.three{
+    margin-left: 270px;
+}
+.para{
+    width: 800px;
+    text-align: center;
+    margin-left: 350px;
+    font-family: Poppins;
+font-size: 35px;
+font-style: normal;
+font-weight: 500;
+line-height: 190.5%;
+margin-top: 80px;
+}
+.lorem h3{
+    font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: 187.5%;
+margin-left: 150px;
+}
+.lorem p{
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 187.5%; 
+width: 450px;
+margin-left: 150px;
+margin-top: -20px;
+}
+.topic{
+    display: flex;
+}
+.dot{
+    margin-top: 200px;
+    margin-left: 400px;
+}
+.spider{
+    border-radius: 5px;
+    margin-left: -450px;
+    margin-top: -90px;
+}
+.mount{
+    margin-top: 100px;
+    margin-left: 30px;
+    width: 1440px;
+    height: 881px;
+}
+
+.dummy h3{
+    text-align: center;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 187.5%;
+    margin-top: -850px;
+    width: 820px;
+    margin-left: 300px;
+}
+.dummy p{
+    text-align: center;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 187.5%;
+width: 700px;
+height: 60px;
+margin-left: 360px;
+margin-top: -10px;
+}
